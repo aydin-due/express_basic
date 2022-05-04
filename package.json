@@ -1,0 +1,22 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aydin-due/express_basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aydin-due/express_basic/issues"
+  },
+  "homepage": "https://github.com/aydin-due/express_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
